@@ -1,1 +1,2 @@
 # Muslimbek
+print("Hello")
